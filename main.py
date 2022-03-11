@@ -1,3 +1,5 @@
+#  добавление нового абонемента в гугл таблицу
+
 import gspread
 from datetime import date
 
